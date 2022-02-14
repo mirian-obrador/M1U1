@@ -4,3 +4,4 @@ galletas dulces
 jabon liquido
 naranjas
 huevos
+galletas saladas
